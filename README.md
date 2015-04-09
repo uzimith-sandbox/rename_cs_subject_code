@@ -4,4 +4,4 @@
 [KDB](https://kdb.tsukuba.ac.jp/)の2013-2015年度のデータベースを使ってるよ！
 
 # Usage
-[Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)をインストールして`rename_cs_subject_code.user.js`をインストールする
+[Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)をインストールして[rename_cs_subject_code.user.js](https://github.com/uzimith-sandbox/rename_cs_subject_code/raw/master/rename_cs_subject_code.user.js)をインストールする
